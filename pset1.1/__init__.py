@@ -20,6 +20,7 @@ def azcbobobegghakl():
     check50.run("python3 pset.py").stdout("Number of vowels: 5").exit(0)
 
 
+@check50.check(exists)
 def bzcbcbcbdgghfkl():
     """correctly identifies the number of vowels in bzcbcbcbdgghfkl"""
     file = open("pset1.1.py")
