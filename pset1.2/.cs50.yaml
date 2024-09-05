@@ -1,0 +1,5 @@
+check50:
+  files:
+    - !exclude "*"
+    - !include "pset1.2.py"
+    - !require "pset1.2.py"
